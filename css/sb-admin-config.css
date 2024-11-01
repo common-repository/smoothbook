@@ -1,0 +1,39 @@
+h3.sb-header {
+    font-size: 18px;
+    padding: 20px 10px;
+    margin: 0;
+    line-height: 1.4;
+    border-bottom: 1px solid #eee;
+}
+
+p label {
+    font-weight: bold;
+    line-height: 1.8;
+}
+
+form#smoothbook_options input[type="email"], form#smoothbook_options input[type="text"] {
+    padding: 10px 10px;
+    margin-bottom: 20px;
+}
+
+.sb-form {
+    text-align: center;
+}
+
+.sb-form div.left-box {
+    width: 30%;
+    float: left;
+}
+
+.sb-form div.form-box {
+    width: 50%;
+    float: left;
+    text-align: left;
+}
+
+.sb-options-error {
+    background-color: #c30;
+    color: #fff;
+    padding: 6px 10px;
+    margin-left: 10px;
+}
